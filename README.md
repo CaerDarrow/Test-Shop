@@ -5,7 +5,7 @@ Web-intense project made on the knee under 24 hours.
 
 ### Installation
 
-    git clone <link> shop
+    git clone https://github.com/CaerDarrow/Test-Shop.git shop
     ./startserver -> starts local server on 8100 port
     http://localhost:8100/install.php - initialize simple csv datapase and reg administrator
     http://localhost:8100/index.php - enjoy
